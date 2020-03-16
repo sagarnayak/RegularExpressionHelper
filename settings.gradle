@@ -1,0 +1,3 @@
+include ':Regex'
+include ':app'
+rootProject.name='RegularExpressionHelper'
