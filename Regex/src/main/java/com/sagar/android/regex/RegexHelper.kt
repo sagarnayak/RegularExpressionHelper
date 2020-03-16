@@ -72,6 +72,8 @@ class RegexHelper {
         }
     }
 
+    fun getRegularExpression() = regexString
+
     class Builder {
         private var regexHelper: RegexHelper = RegexHelper()
 
